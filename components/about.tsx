@@ -19,8 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Currently, I'm fresh Bachelor's degree in Computer Technologies focusing on Multimedia and Web Development. Throughout my journey, I have gained an understanding of various domains with a specific focus on game development . Additionally, I have developed expertise in web development and graphic design.
-        I have a passion for learning and growing as an individual. Discovering opportunities and expanding my skills brings me joy. I particularly enjoy taking on challenges head on and applying the knowledge I have gained from different experiences and during my time, at the university.
+      As a passionate and creative technology enthusiast, a master’s student specializing in UI/UX design. With a strong foundation in game development and expertise in AR/VR technologies, I thrive on crafting engaging digital experiences that blend innovation with functionality. My journey combines technical skills with a keen eye for design, enabling me to develop immersive applications and interactive solutions that leave a lasting impact. I’m always eager to explore new challenges, share ideas, and bring visions to life through creativity and technology.
       </p>
 
 

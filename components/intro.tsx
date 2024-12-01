@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/Achraf.jpg"
+              src="/Achraf.png"
               alt="Habib portrait"
               width="200"
               height="200"
@@ -58,10 +58,7 @@ export default function Intro() {
       </div>
 
       <motion.h1 className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-2xl" initial={{ opacity: 0, y: 100 }} animate={{ opacity: 1, y: 0 }}>
-        <span className="font-bold">Achraf Ghazouani</span> - <span className="italic">Games Developer</span> from Nabeul, Tunisia. <br />
-        Passionate about technology and programming, I am committed to delivering <span className="font-bold">innovative games solutions</span>
-      
-
+        I’m Achraf Ghazouani, a UI/UX master’s student with a passion for creating immersive experiences.
       </motion.h1>
 
 
@@ -85,15 +82,6 @@ export default function Intro() {
           Contact me here{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
-
-        <a
-          className="group mx-3 bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
-          download
-        >
-          Download CV{" "}
-          <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
-        </a>
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
